@@ -1,0 +1,14 @@
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\bin\Debug\net8.0\workshoptwo.exe
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\bin\Debug\net8.0\workshoptwo.deps.json
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\bin\Debug\net8.0\workshoptwo.runtimeconfig.json
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\bin\Debug\net8.0\workshoptwo.dll
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\bin\Debug\net8.0\workshoptwo.pdb
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.AssemblyInfoInputs.cache
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.AssemblyInfo.cs
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.csproj.CoreCompileInputs.cache
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.dll
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\refint\workshoptwo.dll
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.pdb
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\workshoptwo.genruntimeconfig.cache
+C:\Users\amsde\Desktop\workshop\workshoptwo\workshoptwo\obj\Debug\net8.0\ref\workshoptwo.dll

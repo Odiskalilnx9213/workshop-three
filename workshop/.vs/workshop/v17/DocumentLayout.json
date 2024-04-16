@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amsde\\Desktop\\workshop\\workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB8426E-8346-439F-AB79-8649B974BA0E}|workshop\\workshop.csproj|c:\\users\\amsde\\desktop\\workshop\\workshop\\workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB8426E-8346-439F-AB79-8649B974BA0E}|workshop\\workshop.csproj|solutionrelative:workshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amsde\\Desktop\\workshop\\workshop\\workshop\\Program.cs",
+              "RelativeDocumentMoniker": "workshop\\Program.cs",
+              "ToolTip": "C:\\Users\\amsde\\Desktop\\workshop\\workshop\\workshop\\Program.cs",
+              "RelativeToolTip": "workshop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:05:02.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
